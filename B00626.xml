@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Youths warning-peice. In a true relation of the woefull death of William Rogers of Cranbroke in Kent an apothecary, who refusing all good counsell, and following lewd company, dyed miserably since Christmas last. 1635. To the tune of Doctor Faustus.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00626</idno>
+            <idno type="STC">STC 21251</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[434]</idno>
+            <idno type="EEBO-CITATION">99891311</idno>
+            <idno type="PROQUEST">ocm99891311</idno>
+            <idno type="VID">183146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00626)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183146)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[230])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Youths warning-peice. In a true relation of the woefull death of William Rogers of Cranbroke in Kent an apothecary, who refusing all good counsell, and following lewd company, dyed miserably since Christmas last. 1635. To the tune of Doctor Faustus.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.K.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "What mournefull ditty, or lamenting verse ..."</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of first part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rogers, William, d. 1635 --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="434" facs="tcp:183146:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>Youths Warning-peice.</head>
+            <argument>
+               <p>In a true Relation of the woefull Death of <hi>William Rogers</hi> of <hi>Cranbroke</hi> in <hi>Kent</hi> an Apothecary, who refuſing all good counſell, and fol<g ref="char:EOLhyphen"/>lowing lewd company, dyed miſerably ſince <date>
+                     <hi>Chriſtmas</hi> laſt. 1635.</date>
+               </p>
+            </argument>
+            <opener>To the Tune of Doctor <hi>Fauſtus.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>WHat mournefull ditty, or lamenting verſe</l>
+                  <l>Shall I compoſe this ſubiect to rehearſe?</l>
+                  <l>It being indeed moſt dolefull to declare,</l>
+                  <l>Doth wiſh all youth in time for to beware.</l>
+               </lg>
+               <lg>
+                  <l>If it was feigned, or not true indeed,</l>
+                  <l>It ſhould not in men ſo much dolour bréed:</l>
+                  <l>Or had it beene ſome fable or old thing,</l>
+                  <l>It might haue paſt without much ſorrowing,</l>
+               </lg>
+               <lg>
+                  <l>But it is true, and too too lately knowne</l>
+                  <l>'Twas done, not farre from hence, and cleerely ſhowne</l>
+                  <l>By men, whoſe credits are wel knowne i'th' City,</l>
+                  <l>Come then, and liſten to my dolefull ditty.</l>
+               </lg>
+               <lg>
+                  <l>Thus I begin, <hi>Will. Rogers</hi> was his name,</l>
+                  <l>His Parents and his Kindred of good fame:</l>
+                  <l>Theſe gaue him education, and good Arts,</l>
+                  <l>By which he was endued with able parts.</l>
+               </lg>
+               <lg>
+                  <l>He an Apothecary was by Trade,</l>
+                  <l>By which it doth appeare he Learning had:</l>
+                  <l>For none can know the myſteries of that Art,</l>
+                  <l>Without ſome knowledge, or ſome good deſert.</l>
+               </lg>
+               <lg>
+                  <l>Moreouer, he in Chyrurgery had skill,</l>
+                  <l>And practis'd it with ſucceſſe, &amp; goodwill</l>
+                  <l>Of many grieued Patients whom he cur'd</l>
+                  <l>Of their corrupted ſoares which they endur'd.</l>
+               </lg>
+               <lg>
+                  <l>His carriage was moſt milde and temperate,</l>
+                  <l>By which he loue and eſtimation gat:</l>
+                  <l>He did not take any exceſſiue gaines,</l>
+                  <l>But often gaue the poore his time and paines.</l>
+               </lg>
+               <lg>
+                  <l>His practice brought him into fauour great,</l>
+                  <l>And cauſed him ſome meanes to gaine and get,</l>
+                  <l>So that he did receiue two hundred pound</l>
+                  <l>By each yéeres practice, as it cleere was found.</l>
+               </lg>
+               <lg>
+                  <l>His ciuill Education did impart</l>
+                  <l>The knowledge of Religion to his heart,</l>
+                  <l>Whereby he able was account to giue,</l>
+                  <l>How he in <hi>Chriſt</hi> by faith alone did liue.</l>
+               </lg>
+               <lg>
+                  <l>All theſe were hopefull bloſſomes in a youth,</l>
+                  <l>That in their ſeaſo<g ref="char:cmbAbbrStroke">̄</g> might good fruits haue prou'd,</l>
+                  <l>And caus'd him to haue liued in good fame,</l>
+                  <l>And dyed in the credit of his houſe and name.</l>
+               </lg>
+               <lg>
+                  <l>But ſee of this mans life the fatall change,</l>
+                  <l>When in the world he did begin to range:</l>
+                  <l>For preſently all gooddeſſe was forgot,</l>
+                  <l>His latter courſe was to his firſt a blot.</l>
+               </lg>
+               <lg>
+                  <l>What pitty 'tis that in ſo faire a face</l>
+                  <l>Such ſpots and blemiſhes ſhould poſſeſſe a place,</l>
+                  <l>Or that ſuch good beginnings ſhould be left;</l>
+                  <l>Or that men ſhould be of ſuch hopes bereft.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="435" facs="tcp:183146:1"/>
+               <!-- PDF PAGE 7 -->
+               <head>The ſecond part</head>
+               <opener>to the ſame tune.</opener>
+               <lg>
+                  <l>WE ca<g ref="char:cmbAbbrStroke">̄</g>not blame Dame Fortune as y<hi rend="sup">e</hi> cauſe,</l>
+                  <l>Nor yet religion which giues better laws,</l>
+                  <l>Nor yet our Parents, or our Maſters care,</l>
+                  <l>Nor yet accuſe a Planet, or a Starre.</l>
+               </lg>
+               <lg>
+                  <l>All theſe are frée, and cléere from any blame,</l>
+                  <l>'Tis wée our ſelues that doe procure our ſhame,</l>
+                  <l>It is our negligence that will not vſe</l>
+                  <l>Our gifts aright, but often them abuſe.</l>
+               </lg>
+               <lg>
+                  <l>So did this young man by leud courſes ſpend,</l>
+                  <l>His time and means &amp; ſtock, which God did ſend,</l>
+                  <l>He vainely laviſh'd out in toyiſh ſport,</l>
+                  <l>Mongſt vaine companiens which to him reſort.</l>
+               </lg>
+               <lg>
+                  <l>He left the councell of his deareſt friend,</l>
+                  <l>The Paſtor of the Pariſh who did ſend,</l>
+                  <l>Directions graue and honeſt, iuſt, and good,</l>
+                  <l>All which this young man mightily withſtood.</l>
+               </lg>
+               <lg>
+                  <l>Hee did forget his former promiſe made</l>
+                  <l>To God, and others, that that ſinfull trade</l>
+                  <l>Should quite be left, and y<hi rend="sup">t</hi> he would put on,</l>
+                  <l>The practiſe of the pure Religion.</l>
+               </lg>
+               <lg>
+                  <l>But wholy gaue himſelfe to wine and drinke,</l>
+                  <l>With company all times, which ſoone wil ſinke</l>
+                  <l>A mans eſtate, the bane and ſource of ill,</l>
+                  <l>And doth all goodneſſe and Religion ſpill.</l>
+               </lg>
+               <lg>
+                  <l>Hence he grew careleſſe of his Patients lame,</l>
+                  <l>Still ſwilling his carouſes downe amaine,</l>
+                  <l>Kept company, neglected Church, each time</l>
+                  <l>Slighted the uſe of the Sacraments Divine.</l>
+               </lg>
+               <lg>
+                  <l>So he grew ſetled in his ſinfull tracke,</l>
+                  <l>No friendly councell could reduce him backe:</l>
+                  <l>But obſtinately ſtill hee did perſiſt,</l>
+                  <l>And ſcornfully all councell did reſiſt.</l>
+               </lg>
+               <lg>
+                  <l>His Paſtor told him he would be ſo bold,</l>
+                  <l>To excommunicate him from Chriſts fold:</l>
+                  <l>Which wrought upon his conſcience, ſo that he</l>
+                  <l>Promiſ'd to diuers, a new man to be.</l>
+               </lg>
+               <lg>
+                  <l>But ſicknes Deaths bold Serieant did arreſt</l>
+                  <l>Him, that he faild of what he did proteſt.</l>
+                  <l>In which his viſitation hee exclaim'd,</l>
+                  <l>That Hel was his, and that he ſure was dam'd.</l>
+               </lg>
+               <lg>
+                  <l>Viſits were made, and councel graue was giuen,</l>
+                  <l>That yet he might poſſeſſe a place in Heaven:</l>
+                  <l>But he ſtil did raue, and ſtriue curſe and crye,</l>
+                  <l>That he ſhould go to Hell immediately.</l>
+               </lg>
+               <lg>
+                  <l>Somtimes he blames his ſin with ſome remorſe,</l>
+                  <l>which had brought down Gods heauy rod &amp; curſe</l>
+                  <l>Then he aduiſes others to beware</l>
+                  <l>Of ſinne, ſo euen ſeeming to deſpaire.</l>
+               </lg>
+               <lg>
+                  <l>He cryes out fearefully that he muſt go,</l>
+                  <l>To Hell, the place of miſery and woe;</l>
+                  <l>There to endure all torments, griefe and paine,</l>
+                  <l>Milions of milions of ages to remayne.</l>
+               </lg>
+               <lg>
+                  <l>And fearefull tis to thinke, that in ſuch wiſe,</l>
+                  <l>In raging fury, ends his life and dyes.</l>
+                  <l>We cannot iudge of his Eternall ſtate,</l>
+                  <l>But leaue to him, who rules all liues and Fate.</l>
+               </lg>
+               <lg>
+                  <l>So you haue heard his end, I wiſh you all</l>
+                  <l>To take a warning by his fearefull fall,</l>
+                  <l>Of all leud company, and drinking too,</l>
+                  <l>Which alwayes are the Harbengers of woe.</l>
+               </lg>
+               <lg>
+                  <l>Reiect not councell, nor Gods ordinance ſcorne,</l>
+                  <l>Nor yet Church diſcipline, as men forlorne:</l>
+                  <l>Follow your callings diligently ſtill,</l>
+                  <l>So God ſhall keep you in your wayes from ill.</l>
+               </lg>
+               <lg>
+                  <l>God bleſſe our gracious Soveraign Queene and Prince</l>
+                  <l>With all the royal Progeny, y<hi rend="sup">t</hi> thence</l>
+                  <l>Bleſſings may flow on all our Nobles, and</l>
+                  <l>For euer prove a bleſſing to our land.</l>
+               </lg>
+            </div>
+            <div type="further_reading">
+               <p>
+                  <hi>If any deſire further information touching the man<g ref="char:EOLhyphen"/>ner of this mans Life, ſickneſſe, and death, let them read the Sermon Preached at his funerall, which is Printed by Authority.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London printed for <hi>A.K.</hi> 1636.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
